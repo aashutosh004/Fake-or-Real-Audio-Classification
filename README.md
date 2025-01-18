@@ -9,7 +9,8 @@ Streamlit is used to create an interactive web-based interface for real-time tes
 ### Dataset
 #### Hierarchy :
 
-'''for-2sec
+'''
+for-2sec
   ├── training
   │     ├── fake
   │     └── real
@@ -18,7 +19,8 @@ Streamlit is used to create an interactive web-based interface for real-time tes
   │     └── real
   └── testing
         ├── fake
-        └── real'''
+        └── real
+'''
 
 Dataset Link : https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset
 
