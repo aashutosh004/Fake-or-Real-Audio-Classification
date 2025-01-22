@@ -15,7 +15,7 @@ Deep Learning Model: Leverages RNN (LSTM) to capture sequential audio patterns.
 Interactive Interface: Provides real-time predictions using a web-based UI built with Streamlit.
 
 ## Model Workflow
-Data Preprocessing:
+- **Data Preprocessing**:
 Audio files are processed into 2-second segments.
 Librosa is used to extract features such as:
 MFCC
@@ -23,14 +23,14 @@ Chroma
 Mel Spectrogram
 Features are normalized for input to the neural network.
 
-Model Training:
+- **Model Training**:
 RNN (LSTM) is used for sequential pattern recognition.
 TensorFlow is employed to build and train the model.
 
-Model Evaluation:
+- **Model Evaluation**:
 Evaluates performance on validation and testing datasets using metrics like accuracy, precision, recall, and F1-score.
 
-Deployment:
+- **Deployment**:
 Streamlit is used to create an interactive interface for real-time predictions.
 
 ### Technologies Used
