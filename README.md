@@ -33,12 +33,13 @@ Evaluates performance on validation and testing datasets using metrics like accu
 Deployment:
 Streamlit is used to create an interactive interface for real-time predictions.
 
-## Technologies Used
-Python: Primary programming language
-TensorFlow/Keras: For building and training the LSTM model
-Librosa: For audio feature extraction
-Streamlit: For creating an interactive web-based interface
-Kaggle Datasets: Dataset source
+### Technologies Used
+- **Python**: Primary programming language.
+- **TensorFlow/Keras**: For building and training the LSTM model.
+- **Librosa**: For audio feature extraction.
+- **Streamlit**: For creating an interactive web-based interface.
+- **Kaggle Datasets**: Dataset source.
+
 
 ### Dataset
 #### Hierarchy :
