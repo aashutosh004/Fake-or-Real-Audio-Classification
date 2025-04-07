@@ -3,7 +3,7 @@
 
 Fake audio can be used maliciously to spread misinformation. This project leverages Deep Learning techniques (Recurrent Neural Networks (RNN) with Long Short-Term Memory (LSTM)) to create a model capable of detecting fake audio. It provides a robust tool to combat audio-based misinformation by offering a reliable classification system.
 
-This project proposes an automated solution to classify audio as real or fake. It includes the following steps:
+This project proposes an automated solution to classify audio as real or fake. It includes the following steps-:
 
 Preprocessing raw audio files using Librosa to extract meaningful features.
 Training a robust model using TensorFlow.
